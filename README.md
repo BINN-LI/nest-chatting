@@ -2,8 +2,8 @@
 # Socket.IO 랜덤 채팅 웹 앱
 > 🖍 NestJS에서 Socket.IO로 랜덤 채팅 웹 앱 클론코딩
 
-NestJS 프레임워크로 랜덤 채팅 웹 앱 클론코딩을 진행했습니다. <br>
-실시간 소통이 가능한 Socket.IO를 이해하고 NestJS와 Typescript에 더 익숙해지는 기회로 삼고자 했습니다.
+NestJS 프레임워크로 랜덤 채팅 웹 앱 클론코딩을 진행함 <br>
+실시간 소통이 가능한 Socket.IO를 이해하고 NestJS와 Typescript에 더 익숙해지는 기회로 삼고자 했음
 
 ### STACK
 - NestJS
